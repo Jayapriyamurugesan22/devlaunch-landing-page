@@ -223,3 +223,7 @@ footer {
         padding: 60px 5%;
     }
 }
+html {
+    scroll-behavior: smooth;
+}
+
